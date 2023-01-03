@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Quah Ming Yao",
+        "email": "21023135@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
